@@ -175,11 +175,12 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunchaudhary45&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Arun's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunchaudhary45&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <a href="https://github.com/arunchaudhary45">
+    <img src="https://github-readme-stats.vercel.app/api?username=arunchaudhary45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Arun's GitHub Stats" width="49%" />
+  </a>
+  <a href="https://github.com/arunchaudhary45">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunchaudhary45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="41%" />
+  </a>
 </p>
 
 ---
