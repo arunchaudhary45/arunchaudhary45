@@ -183,7 +183,8 @@ Currently focused on:
 - 🏗️ Built an AI-based Construction Site Monitoring System
 - 💪 Continuously improving Data Structures and Algorithms skills
 
----## 📈 GitHub Statistics
+---
+## 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arunchaudhary45&show_icons=true&theme=tokyonight" />
