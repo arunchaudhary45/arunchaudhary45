@@ -183,22 +183,14 @@ Currently focused on:
 - 🏗️ Built an AI-based Construction Site Monitoring System
 - 💪 Continuously improving Data Structures and Algorithms skills
 
----
-
-## 📈 GitHub Statistics
+---## 📈 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=arunchaudhary45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Arun's GitHub Statistics"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=arunchaudhary45&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunchaudhary45&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Arun's Most Used Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunchaudhary45&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -206,13 +198,8 @@ Currently focused on:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=arunchaudhary45&theme=tokyonight&hide_border=true"
-    alt="Arun's GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=arunchaudhary45&theme=tokyonight" />
 </p>
-
----
 
 ## 📊 Contribution Graph
 
