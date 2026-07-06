@@ -190,10 +190,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arunchaudhary45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
