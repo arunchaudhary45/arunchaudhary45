@@ -175,12 +175,23 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/arunchaudhary45">
-    <img src="https://github-readme-stats.vercel.app/api?username=arunchaudhary45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Arun's GitHub Stats" width="49%" />
-  </a>
-  <a href="https://github.com/arunchaudhary45">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunchaudhary45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="41%" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arunchaudhary45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arunchaudhary45&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arunchaudhary45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Arun's GitHub Stats" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=arunchaudhary45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=arunchaudhary45&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=arunchaudhary45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arunchaudhary45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
